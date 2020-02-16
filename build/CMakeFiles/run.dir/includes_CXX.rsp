@@ -1,0 +1,1 @@
+-I"E:/Projects/C++/Bliep Engine/src" -I"E:/Projects/C++/Bliep Engine/src/rendering" -I"E:/Projects/C++/Bliep Engine/run" -I"E:/Projects/C++/Bliep Engine/PUBLIC" -I"E:/Projects/C++/Bliep Engine/libs/SDL2/include" -I"E:/Projects/C++/Bliep Engine/libs/GL/include" -I"E:/Projects/C++/Bliep Engine/libs/assimp/include" -I"E:/Projects/C++/Bliep Engine/libs" 

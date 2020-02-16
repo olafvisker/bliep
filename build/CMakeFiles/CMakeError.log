@@ -1,0 +1,54 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: E:/Projects/C++/Bliep Engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe cmTC_c0f6a/fast 
+C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c0f6a.dir\build.make CMakeFiles/cmTC_c0f6a.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Projects/C++/Bliep Engine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c0f6a.dir/CheckSymbolExists.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_c0f6a.dir\CheckSymbolExists.c.obj   -c "E:\Projects\C++\Bliep Engine\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+Linking C executable cmTC_c0f6a.exe
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c0f6a.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c0f6a.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\cmTC_c0f6a.dir/objects.a @CMakeFiles\cmTC_c0f6a.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_c0f6a.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c0f6a.exe -Wl,--out-implib,libcmTC_c0f6a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c0f6a.dir\linklibs.rsp
+CMakeFiles\cmTC_c0f6a.dir/objects.a(CheckSymbolExists.c.obj):CheckSymbolExists.c:(.rdata$.refptr.pthread_create[.refptr.pthread_create]+0x0): undefined reference to `pthread_create'
+collect2.exe: error: ld returned 1 exit status
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_c0f6a.dir\build.make:88: cmTC_c0f6a.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'E:/Projects/C++/Bliep Engine/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_c0f6a/fast] Error 2
+
+File E:/Projects/C++/Bliep Engine/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: E:/Projects/C++/Bliep Engine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe cmTC_ed158/fast 
+C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_ed158.dir\build.make CMakeFiles/cmTC_ed158.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Projects/C++/Bliep Engine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ed158.dir/CheckFunctionExists.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles\cmTC_ed158.dir\CheckFunctionExists.c.obj   -c "C:\Program Files\CMake\share\cmake-3.14\Modules\CheckFunctionExists.c"
+Linking C executable cmTC_ed158.exe
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_ed158.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_ed158.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\cmTC_ed158.dir/objects.a @CMakeFiles\cmTC_ed158.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe  -DCHECK_FUNCTION_EXISTS=pthread_create    -Wl,--whole-archive CMakeFiles\cmTC_ed158.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ed158.exe -Wl,--out-implib,libcmTC_ed158.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_ed158.dir\linklibs.rsp
+C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lpthreads
+collect2.exe: error: ld returned 1 exit status
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_ed158.dir\build.make:88: cmTC_ed158.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'E:/Projects/C++/Bliep Engine/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_ed158/fast] Error 2
+
+
