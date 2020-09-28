@@ -1,1 +1,0 @@
--lmingw32 ../libs/SDL2/lib/libSDL2main.a ../libs/SDL2/lib/libSDL2.dll.a -lpthread -lopengl32 ../libs/GL/bin/glew32.dll ../libs/assimp/lib/libassimp.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
