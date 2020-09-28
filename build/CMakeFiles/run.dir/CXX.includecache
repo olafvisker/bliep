@@ -2190,6 +2190,16 @@ detail/type_vec4.hpp
 detail/func_vector_relational.hpp
 ../libs/glm/detail/func_vector_relational.hpp
 
+../libs/plog/Appenders/ConsoleAppender.h
+plog/Appenders/IAppender.h
+-
+plog/Util.h
+-
+plog/WinApi.h
+-
+iostream
+-
+
 ../libs/plog/Appenders/IAppender.h
 plog/Record.h
 -
@@ -2334,85 +2344,147 @@ intrin.h
 arm_neon.h
 -
 
-E:/Projects/C++/Bliep Engine/src/components/camera.h
+C:/Projects/C++/bliep/src/components/camera.h
 ../ecs/component.h
-E:/Projects/C++/Bliep Engine/src/ecs/component.h
+C:/Projects/C++/bliep/src/ecs/component.h
 ../types/rectangle.h
-E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+C:/Projects/C++/bliep/src/types/rectangle.h
 
-E:/Projects/C++/Bliep Engine/src/components/mesh_renderer.h
+C:/Projects/C++/bliep/src/components/mesh_renderer.h
 ../ecs/component.h
-E:/Projects/C++/Bliep Engine/src/ecs/component.h
+C:/Projects/C++/bliep/src/ecs/component.h
 ../graphics/mesh.h
-E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
+C:/Projects/C++/bliep/src/graphics/mesh.h
 ../graphics/material.h
-E:/Projects/C++/Bliep Engine/src/graphics/material.h
+C:/Projects/C++/bliep/src/graphics/material.h
 
-E:/Projects/C++/Bliep Engine/src/components/transform.h
+C:/Projects/C++/bliep/src/components/transform.h
 GLM/glm.hpp
 -
 ../ecs/component.h
-E:/Projects/C++/Bliep Engine/src/ecs/component.h
+C:/Projects/C++/bliep/src/ecs/component.h
 
-E:/Projects/C++/Bliep Engine/src/core/engine.h
+C:/Projects/C++/bliep/src/core/engine.cpp
+thread
+-
+iostream
+-
+engine.h
+C:/Projects/C++/bliep/src/core/engine.h
+
+C:/Projects/C++/bliep/src/core/engine.h
 memory
 -
 window.h
-E:/Projects/C++/Bliep Engine/src/core/window.h
+C:/Projects/C++/bliep/src/core/window.h
 input.h
-E:/Projects/C++/Bliep Engine/src/core/input.h
+C:/Projects/C++/bliep/src/core/input.h
 logger.h
-E:/Projects/C++/Bliep Engine/src/core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
 timer.h
-E:/Projects/C++/Bliep Engine/src/core/timer.h
+C:/Projects/C++/bliep/src/core/timer.h
 ../ecs/entity.h
-E:/Projects/C++/Bliep Engine/src/ecs/entity.h
+C:/Projects/C++/bliep/src/ecs/entity.h
 ../ecs/system.h
-E:/Projects/C++/Bliep Engine/src/ecs/system.h
+C:/Projects/C++/bliep/src/ecs/system.h
 
-E:/Projects/C++/Bliep Engine/src/core/input.h
+C:/Projects/C++/bliep/src/core/input.cpp
+input.h
+C:/Projects/C++/bliep/src/core/input.h
+
+C:/Projects/C++/bliep/src/core/input.h
 SDL2/SDL.h
 -
 map
 -
 window.h
-E:/Projects/C++/Bliep Engine/src/core/window.h
+C:/Projects/C++/bliep/src/core/window.h
 
-E:/Projects/C++/Bliep Engine/src/core/logger.h
+C:/Projects/C++/bliep/src/core/logger.cpp
+plog/Appenders/ConsoleAppender.h
+-
+logger.h
+C:/Projects/C++/bliep/src/core/logger.h
+
+C:/Projects/C++/bliep/src/core/logger.h
 plog/Log.h
 -
 
-E:/Projects/C++/Bliep Engine/src/core/timer.h
+C:/Projects/C++/bliep/src/core/timer.cpp
+SDL2/SDL.h
+-
+SDL2/SDL_timer.h
+-
+timer.h
+C:/Projects/C++/bliep/src/core/timer.h
+
+C:/Projects/C++/bliep/src/core/timer.h
 chrono
 -
 
-E:/Projects/C++/Bliep Engine/src/core/window.h
+C:/Projects/C++/bliep/src/core/window.cpp
+GL/glew.h
+-
+window.h
+C:/Projects/C++/bliep/src/core/window.h
+logger.h
+C:/Projects/C++/bliep/src/core/logger.h
+
+C:/Projects/C++/bliep/src/core/window.h
 SDL2/SDL.h
 -
 string
 -
 ../types/color.h
-E:/Projects/C++/Bliep Engine/src/types/color.h
+C:/Projects/C++/bliep/src/types/color.h
 ../types/rectangle.h
-E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+C:/Projects/C++/bliep/src/types/rectangle.h
 
-E:/Projects/C++/Bliep Engine/src/debug_components.h
+C:/Projects/C++/bliep/src/debug_components.h
 SDL2/SDL.h
 -
 ecs/component.h
-E:/Projects/C++/Bliep Engine/src/ecs/component.h
+C:/Projects/C++/bliep/src/ecs/component.h
 
-E:/Projects/C++/Bliep Engine/src/debug_systems.h
+C:/Projects/C++/bliep/src/debug_systems.cpp
+debug_systems.h
+C:/Projects/C++/bliep/src/debug_systems.h
+debug_components.h
+C:/Projects/C++/bliep/src/debug_components.h
+components/transform.h
+C:/Projects/C++/bliep/src/components/transform.h
+core/engine.h
+C:/Projects/C++/bliep/src/core/engine.h
+math/math.h
+C:/Projects/C++/bliep/src/math/math.h
+
+C:/Projects/C++/bliep/src/debug_systems.h
 ecs/system.h
-E:/Projects/C++/Bliep Engine/src/ecs/system.h
+C:/Projects/C++/bliep/src/ecs/system.h
 
-E:/Projects/C++/Bliep Engine/src/ecs/component.h
+C:/Projects/C++/bliep/src/ecs/component.cpp
+component.h
+C:/Projects/C++/bliep/src/ecs/component.h
+
+C:/Projects/C++/bliep/src/ecs/component.h
 typeindex
 -
 unordered_map
 -
 
-E:/Projects/C++/Bliep Engine/src/ecs/entity.h
+C:/Projects/C++/bliep/src/ecs/entity.cpp
+assert.h
+-
+entity.h
+C:/Projects/C++/bliep/src/ecs/entity.h
+component.h
+C:/Projects/C++/bliep/src/ecs/component.h
+system.h
+C:/Projects/C++/bliep/src/ecs/system.h
+../core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
+
+C:/Projects/C++/bliep/src/ecs/entity.h
 vector
 -
 deque
@@ -2424,7 +2496,15 @@ memory
 cstdint
 -
 
-E:/Projects/C++/Bliep Engine/src/ecs/system.h
+C:/Projects/C++/bliep/src/ecs/system.cpp
+system.h
+C:/Projects/C++/bliep/src/ecs/system.h
+component.h
+C:/Projects/C++/bliep/src/ecs/component.h
+../core/engine.h
+C:/Projects/C++/bliep/src/core/engine.h
+
+C:/Projects/C++/bliep/src/ecs/system.h
 vector
 -
 unordered_map
@@ -2434,21 +2514,21 @@ typeindex
 memory
 -
 entity.h
-E:/Projects/C++/Bliep Engine/src/ecs/entity.h
+C:/Projects/C++/bliep/src/ecs/entity.h
 
-E:/Projects/C++/Bliep Engine/src/graphics/material.cpp
+C:/Projects/C++/bliep/src/graphics/material.cpp
 material.h
-E:/Projects/C++/Bliep Engine/src/graphics/material.h
+C:/Projects/C++/bliep/src/graphics/material.h
 shader.h
-E:/Projects/C++/Bliep Engine/src/graphics/shader.h
+C:/Projects/C++/bliep/src/graphics/shader.h
 texture.h
-E:/Projects/C++/Bliep Engine/src/graphics/texture.h
+C:/Projects/C++/bliep/src/graphics/texture.h
 ../types/color.h
-E:/Projects/C++/Bliep Engine/src/types/color.h
+C:/Projects/C++/bliep/src/types/color.h
 ../core/logger.h
-E:/Projects/C++/Bliep Engine/src/core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
 
-E:/Projects/C++/Bliep Engine/src/graphics/material.h
+C:/Projects/C++/bliep/src/graphics/material.h
 vector
 -
 string
@@ -2456,7 +2536,13 @@ string
 glm/glm.hpp
 -
 
-E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
+C:/Projects/C++/bliep/src/graphics/mesh.cpp
+mesh.h
+C:/Projects/C++/bliep/src/graphics/mesh.h
+../core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
+
+C:/Projects/C++/bliep/src/graphics/mesh.h
 GLM/glm.hpp
 -
 GL/glew.h
@@ -2464,55 +2550,77 @@ GL/glew.h
 vector
 -
 
-E:/Projects/C++/Bliep Engine/src/graphics/model.cpp
+C:/Projects/C++/bliep/src/graphics/model.cpp
 vector
 -
 memory
 -
 model.h
-E:/Projects/C++/Bliep Engine/src/graphics/model.h
+C:/Projects/C++/bliep/src/graphics/model.h
 mesh.h
-E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
+C:/Projects/C++/bliep/src/graphics/mesh.h
 
-E:/Projects/C++/Bliep Engine/src/graphics/model.h
+C:/Projects/C++/bliep/src/graphics/model.h
 vector
 -
 memory
 -
 ../resource/asset.h
-E:/Projects/C++/Bliep Engine/src/resource/asset.h
+C:/Projects/C++/bliep/src/resource/asset.h
 
-E:/Projects/C++/Bliep Engine/src/graphics/render_system.h
+C:/Projects/C++/bliep/src/graphics/render_system.cpp
+GL/glew.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+render_system.h
+C:/Projects/C++/bliep/src/graphics/render_system.h
+../core/timer.h
+C:/Projects/C++/bliep/src/core/timer.h
+../components/transform.h
+C:/Projects/C++/bliep/src/components/transform.h
+../components/mesh_renderer.h
+C:/Projects/C++/bliep/src/components/mesh_renderer.h
+../components/camera.h
+C:/Projects/C++/bliep/src/components/camera.h
+../core/engine.h
+C:/Projects/C++/bliep/src/core/engine.h
+../math/math.h
+C:/Projects/C++/bliep/src/math/math.h
+
+C:/Projects/C++/bliep/src/graphics/render_system.h
 ../ecs/system.h
-E:/Projects/C++/Bliep Engine/src/ecs/system.h
+C:/Projects/C++/bliep/src/ecs/system.h
 
-E:/Projects/C++/Bliep Engine/src/graphics/shader.cpp
+C:/Projects/C++/bliep/src/graphics/shader.cpp
 glm/gtc/type_ptr.hpp
 -
 shader.h
-E:/Projects/C++/Bliep Engine/src/graphics/shader.h
+C:/Projects/C++/bliep/src/graphics/shader.h
 
-E:/Projects/C++/Bliep Engine/src/graphics/shader.h
+C:/Projects/C++/bliep/src/graphics/shader.h
 GL/glew.h
 -
 glm/glm.hpp
 -
 ../resource/asset.h
-E:/Projects/C++/Bliep Engine/src/resource/asset.h
+C:/Projects/C++/bliep/src/resource/asset.h
 
-E:/Projects/C++/Bliep Engine/src/graphics/texture.cpp
+C:/Projects/C++/bliep/src/graphics/texture.cpp
 assert.h
 -
 texture.h
-E:/Projects/C++/Bliep Engine/src/graphics/texture.h
+C:/Projects/C++/bliep/src/graphics/texture.h
 
-E:/Projects/C++/Bliep Engine/src/graphics/texture.h
+C:/Projects/C++/bliep/src/graphics/texture.h
 GL/glew.h
 -
 ../resource/asset.h
-E:/Projects/C++/Bliep Engine/src/resource/asset.h
+C:/Projects/C++/bliep/src/resource/asset.h
 
-E:/Projects/C++/Bliep Engine/src/main.cpp
+C:/Projects/C++/bliep/src/main.cpp
 memory
 -
 vector
@@ -2530,67 +2638,81 @@ glm/gtc/matrix_transform.hpp
 glm/gtc/type_ptr.hpp
 -
 main.h
-E:/Projects/C++/Bliep Engine/src/main.h
+C:/Projects/C++/bliep/src/main.h
 core/logger.h
-E:/Projects/C++/Bliep Engine/src/core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
 core/timer.h
-E:/Projects/C++/Bliep Engine/src/core/timer.h
+C:/Projects/C++/bliep/src/core/timer.h
 graphics/mesh.h
-E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
+C:/Projects/C++/bliep/src/graphics/mesh.h
 graphics/material.h
-E:/Projects/C++/Bliep Engine/src/graphics/material.h
+C:/Projects/C++/bliep/src/graphics/material.h
 graphics/model.h
-E:/Projects/C++/Bliep Engine/src/graphics/model.h
+C:/Projects/C++/bliep/src/graphics/model.h
 graphics/render_system.h
-E:/Projects/C++/Bliep Engine/src/graphics/render_system.h
+C:/Projects/C++/bliep/src/graphics/render_system.h
 components/mesh_renderer.h
-E:/Projects/C++/Bliep Engine/src/components/mesh_renderer.h
+C:/Projects/C++/bliep/src/components/mesh_renderer.h
 components/transform.h
-E:/Projects/C++/Bliep Engine/src/components/transform.h
+C:/Projects/C++/bliep/src/components/transform.h
 components/camera.h
-E:/Projects/C++/Bliep Engine/src/components/camera.h
+C:/Projects/C++/bliep/src/components/camera.h
 resource/asset.h
-E:/Projects/C++/Bliep Engine/src/resource/asset.h
+C:/Projects/C++/bliep/src/resource/asset.h
 resource/asset_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
+C:/Projects/C++/bliep/src/resource/asset_loader.h
 resource/asset_manager.h
-E:/Projects/C++/Bliep Engine/src/resource/asset_manager.h
+C:/Projects/C++/bliep/src/resource/asset_manager.h
 ecs/entity.h
-E:/Projects/C++/Bliep Engine/src/ecs/entity.h
+C:/Projects/C++/bliep/src/ecs/entity.h
 ecs/system.h
-E:/Projects/C++/Bliep Engine/src/ecs/system.h
+C:/Projects/C++/bliep/src/ecs/system.h
 debug_components.h
-E:/Projects/C++/Bliep Engine/src/debug_components.h
+C:/Projects/C++/bliep/src/debug_components.h
 debug_systems.h
-E:/Projects/C++/Bliep Engine/src/debug_systems.h
+C:/Projects/C++/bliep/src/debug_systems.h
 
-E:/Projects/C++/Bliep Engine/src/main.h
+C:/Projects/C++/bliep/src/main.h
 core/engine.h
-E:/Projects/C++/Bliep Engine/src/core/engine.h
+C:/Projects/C++/bliep/src/core/engine.h
 
-E:/Projects/C++/Bliep Engine/src/resource/asset.h
+C:/Projects/C++/bliep/src/math/math.cpp
+glm/gtc/matrix_transform.hpp
+-
+math.h
+C:/Projects/C++/bliep/src/math/math.h
+
+C:/Projects/C++/bliep/src/math/math.h
+glm/glm.hpp
+C:/Projects/C++/bliep/src/math/glm/glm.hpp
+
+C:/Projects/C++/bliep/src/program.cpp
+main.h
+C:/Projects/C++/bliep/src/main.h
+
+C:/Projects/C++/bliep/src/resource/asset.h
 string
 -
 
-E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
+C:/Projects/C++/bliep/src/resource/asset_loader.h
 string
 -
 memory
 -
 asset.h
-E:/Projects/C++/Bliep Engine/src/resource/asset.h
+C:/Projects/C++/bliep/src/resource/asset.h
 
-E:/Projects/C++/Bliep Engine/src/resource/asset_manager.cpp
+C:/Projects/C++/bliep/src/resource/asset_manager.cpp
 asset_manager.h
-E:/Projects/C++/Bliep Engine/src/resource/asset_manager.h
+C:/Projects/C++/bliep/src/resource/asset_manager.h
 shader_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/shader_loader.h
+C:/Projects/C++/bliep/src/resource/shader_loader.h
 texture_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/texture_loader.h
+C:/Projects/C++/bliep/src/resource/texture_loader.h
 model_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/model_loader.h
+C:/Projects/C++/bliep/src/resource/model_loader.h
 
-E:/Projects/C++/Bliep Engine/src/resource/asset_manager.h
+C:/Projects/C++/bliep/src/resource/asset_manager.h
 map
 -
 memory
@@ -2600,19 +2722,19 @@ string
 typeindex
 -
 asset.h
-E:/Projects/C++/Bliep Engine/src/resource/asset.h
+C:/Projects/C++/bliep/src/resource/asset.h
 asset_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
+C:/Projects/C++/bliep/src/resource/asset_loader.h
 ../core/logger.h
-E:/Projects/C++/Bliep Engine/src/core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
 ../graphics/shader.h
-E:/Projects/C++/Bliep Engine/src/graphics/shader.h
+C:/Projects/C++/bliep/src/graphics/shader.h
 ../graphics/texture.h
-E:/Projects/C++/Bliep Engine/src/graphics/texture.h
+C:/Projects/C++/bliep/src/graphics/texture.h
 ../graphics/model.h
-E:/Projects/C++/Bliep Engine/src/graphics/model.h
+C:/Projects/C++/bliep/src/graphics/model.h
 
-E:/Projects/C++/Bliep Engine/src/resource/model_loader.cpp
+C:/Projects/C++/bliep/src/resource/model_loader.cpp
 assimp/Importer.hpp
 -
 assimp/postprocess.h
@@ -2620,15 +2742,15 @@ assimp/postprocess.h
 vector
 -
 model_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/model_loader.h
+C:/Projects/C++/bliep/src/resource/model_loader.h
 ../graphics/model.h
-E:/Projects/C++/Bliep Engine/src/graphics/model.h
+C:/Projects/C++/bliep/src/graphics/model.h
 ../graphics/mesh.h
-E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
+C:/Projects/C++/bliep/src/graphics/mesh.h
 ../core/logger.h
-E:/Projects/C++/Bliep Engine/src/core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
 
-E:/Projects/C++/Bliep Engine/src/resource/model_loader.h
+C:/Projects/C++/bliep/src/resource/model_loader.h
 string
 -
 memory
@@ -2636,19 +2758,19 @@ memory
 assimp/scene.h
 -
 asset_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
+C:/Projects/C++/bliep/src/resource/asset_loader.h
 
-E:/Projects/C++/Bliep Engine/src/resource/shader_loader.cpp
+C:/Projects/C++/bliep/src/resource/shader_loader.cpp
 fstream
 -
 shader_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/shader_loader.h
+C:/Projects/C++/bliep/src/resource/shader_loader.h
 ../graphics/shader.h
-E:/Projects/C++/Bliep Engine/src/graphics/shader.h
+C:/Projects/C++/bliep/src/graphics/shader.h
 ../core/logger.h
-E:/Projects/C++/Bliep Engine/src/core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
 
-E:/Projects/C++/Bliep Engine/src/resource/shader_loader.h
+C:/Projects/C++/bliep/src/resource/shader_loader.h
 string
 -
 memory
@@ -2656,29 +2778,29 @@ memory
 GL/glew.h
 -
 asset_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
+C:/Projects/C++/bliep/src/resource/asset_loader.h
 
-E:/Projects/C++/Bliep Engine/src/resource/texture_loader.cpp
+C:/Projects/C++/bliep/src/resource/texture_loader.cpp
 stb_image/stb_image.h
 -
 texture_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/texture_loader.h
+C:/Projects/C++/bliep/src/resource/texture_loader.h
 ../graphics/texture.h
-E:/Projects/C++/Bliep Engine/src/graphics/texture.h
+C:/Projects/C++/bliep/src/graphics/texture.h
 ../core/logger.h
-E:/Projects/C++/Bliep Engine/src/core/logger.h
+C:/Projects/C++/bliep/src/core/logger.h
 
-E:/Projects/C++/Bliep Engine/src/resource/texture_loader.h
+C:/Projects/C++/bliep/src/resource/texture_loader.h
 string
 -
 memory
 -
 asset_loader.h
-E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
+C:/Projects/C++/bliep/src/resource/asset_loader.h
 
-E:/Projects/C++/Bliep Engine/src/types/color.h
+C:/Projects/C++/bliep/src/types/color.h
 glm/glm.hpp
 -
 
-E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+C:/Projects/C++/bliep/src/types/rectangle.h
 

@@ -23,8 +23,8 @@ namespace bliep {
 			KeyState GetKeyState(unsigned int key)          { return m_keymap[key]; }
 			KeyState GetPreviousKeyState(unsigned int key)  { return m_prev_key_map[key]; }
 
-			int GetDeltaX()         { return m_mouse_x; }
-			int GetDeltaY()         { return m_mouse_y; }
+			int GetMouseX()         { return m_mouse_x; }
+			int GetMouseY()         { return m_mouse_y; }
 			int GetMouseDeltaX()    { return m_mouse_delta_x; }
 			int GetMouseDeltaY()    { return m_mouse_delta_y; }
 

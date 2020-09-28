@@ -42,10 +42,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Projects\C++\Bliep Engine"
+CMAKE_SOURCE_DIR = C:\Projects\C++\bliep
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Projects\C++\Bliep Engine\build"
+CMAKE_BINARY_DIR = C:\Projects\C++\bliep\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/run.dir/depend.make
@@ -59,310 +59,310 @@ include CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/core/engine.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/core/engine.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/core/engine.cpp.obj: ../src/core/engine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/run.dir/src/core/engine.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\engine.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\core\engine.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/run.dir/src/core/engine.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\engine.cpp.obj -c C:\Projects\C++\bliep\src\core\engine.cpp
 
 CMakeFiles/run.dir/src/core/engine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/core/engine.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\core\engine.cpp" > CMakeFiles\run.dir\src\core\engine.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\core\engine.cpp > CMakeFiles\run.dir\src\core\engine.cpp.i
 
 CMakeFiles/run.dir/src/core/engine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/core/engine.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\core\engine.cpp" -o CMakeFiles\run.dir\src\core\engine.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\core\engine.cpp -o CMakeFiles\run.dir\src\core\engine.cpp.s
 
 CMakeFiles/run.dir/src/core/input.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/core/input.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/core/input.cpp.obj: ../src/core/input.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/run.dir/src/core/input.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\input.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\core\input.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/run.dir/src/core/input.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\input.cpp.obj -c C:\Projects\C++\bliep\src\core\input.cpp
 
 CMakeFiles/run.dir/src/core/input.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/core/input.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\core\input.cpp" > CMakeFiles\run.dir\src\core\input.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\core\input.cpp > CMakeFiles\run.dir\src\core\input.cpp.i
 
 CMakeFiles/run.dir/src/core/input.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/core/input.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\core\input.cpp" -o CMakeFiles\run.dir\src\core\input.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\core\input.cpp -o CMakeFiles\run.dir\src\core\input.cpp.s
 
 CMakeFiles/run.dir/src/core/logger.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/core/logger.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/core/logger.cpp.obj: ../src/core/logger.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/run.dir/src/core/logger.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\logger.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\core\logger.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/run.dir/src/core/logger.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\logger.cpp.obj -c C:\Projects\C++\bliep\src\core\logger.cpp
 
 CMakeFiles/run.dir/src/core/logger.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/core/logger.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\core\logger.cpp" > CMakeFiles\run.dir\src\core\logger.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\core\logger.cpp > CMakeFiles\run.dir\src\core\logger.cpp.i
 
 CMakeFiles/run.dir/src/core/logger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/core/logger.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\core\logger.cpp" -o CMakeFiles\run.dir\src\core\logger.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\core\logger.cpp -o CMakeFiles\run.dir\src\core\logger.cpp.s
 
 CMakeFiles/run.dir/src/core/timer.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/core/timer.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/core/timer.cpp.obj: ../src/core/timer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/run.dir/src/core/timer.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\timer.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\core\timer.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/run.dir/src/core/timer.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\timer.cpp.obj -c C:\Projects\C++\bliep\src\core\timer.cpp
 
 CMakeFiles/run.dir/src/core/timer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/core/timer.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\core\timer.cpp" > CMakeFiles\run.dir\src\core\timer.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\core\timer.cpp > CMakeFiles\run.dir\src\core\timer.cpp.i
 
 CMakeFiles/run.dir/src/core/timer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/core/timer.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\core\timer.cpp" -o CMakeFiles\run.dir\src\core\timer.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\core\timer.cpp -o CMakeFiles\run.dir\src\core\timer.cpp.s
 
 CMakeFiles/run.dir/src/core/window.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/core/window.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/core/window.cpp.obj: ../src/core/window.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/run.dir/src/core/window.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\window.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\core\window.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/run.dir/src/core/window.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\core\window.cpp.obj -c C:\Projects\C++\bliep\src\core\window.cpp
 
 CMakeFiles/run.dir/src/core/window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/core/window.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\core\window.cpp" > CMakeFiles\run.dir\src\core\window.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\core\window.cpp > CMakeFiles\run.dir\src\core\window.cpp.i
 
 CMakeFiles/run.dir/src/core/window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/core/window.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\core\window.cpp" -o CMakeFiles\run.dir\src\core\window.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\core\window.cpp -o CMakeFiles\run.dir\src\core\window.cpp.s
 
 CMakeFiles/run.dir/src/debug_systems.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/debug_systems.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/debug_systems.cpp.obj: ../src/debug_systems.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/run.dir/src/debug_systems.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\debug_systems.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\debug_systems.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/run.dir/src/debug_systems.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\debug_systems.cpp.obj -c C:\Projects\C++\bliep\src\debug_systems.cpp
 
 CMakeFiles/run.dir/src/debug_systems.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/debug_systems.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\debug_systems.cpp" > CMakeFiles\run.dir\src\debug_systems.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\debug_systems.cpp > CMakeFiles\run.dir\src\debug_systems.cpp.i
 
 CMakeFiles/run.dir/src/debug_systems.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/debug_systems.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\debug_systems.cpp" -o CMakeFiles\run.dir\src\debug_systems.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\debug_systems.cpp -o CMakeFiles\run.dir\src\debug_systems.cpp.s
 
 CMakeFiles/run.dir/src/ecs/component.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/ecs/component.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/ecs/component.cpp.obj: ../src/ecs/component.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/run.dir/src/ecs/component.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\ecs\component.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\ecs\component.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/run.dir/src/ecs/component.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\ecs\component.cpp.obj -c C:\Projects\C++\bliep\src\ecs\component.cpp
 
 CMakeFiles/run.dir/src/ecs/component.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/ecs/component.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\ecs\component.cpp" > CMakeFiles\run.dir\src\ecs\component.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\ecs\component.cpp > CMakeFiles\run.dir\src\ecs\component.cpp.i
 
 CMakeFiles/run.dir/src/ecs/component.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/ecs/component.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\ecs\component.cpp" -o CMakeFiles\run.dir\src\ecs\component.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\ecs\component.cpp -o CMakeFiles\run.dir\src\ecs\component.cpp.s
 
 CMakeFiles/run.dir/src/ecs/entity.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/ecs/entity.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/ecs/entity.cpp.obj: ../src/ecs/entity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/run.dir/src/ecs/entity.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\ecs\entity.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\ecs\entity.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/run.dir/src/ecs/entity.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\ecs\entity.cpp.obj -c C:\Projects\C++\bliep\src\ecs\entity.cpp
 
 CMakeFiles/run.dir/src/ecs/entity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/ecs/entity.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\ecs\entity.cpp" > CMakeFiles\run.dir\src\ecs\entity.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\ecs\entity.cpp > CMakeFiles\run.dir\src\ecs\entity.cpp.i
 
 CMakeFiles/run.dir/src/ecs/entity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/ecs/entity.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\ecs\entity.cpp" -o CMakeFiles\run.dir\src\ecs\entity.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\ecs\entity.cpp -o CMakeFiles\run.dir\src\ecs\entity.cpp.s
 
 CMakeFiles/run.dir/src/ecs/system.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/ecs/system.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/ecs/system.cpp.obj: ../src/ecs/system.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/run.dir/src/ecs/system.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\ecs\system.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\ecs\system.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/run.dir/src/ecs/system.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\ecs\system.cpp.obj -c C:\Projects\C++\bliep\src\ecs\system.cpp
 
 CMakeFiles/run.dir/src/ecs/system.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/ecs/system.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\ecs\system.cpp" > CMakeFiles\run.dir\src\ecs\system.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\ecs\system.cpp > CMakeFiles\run.dir\src\ecs\system.cpp.i
 
 CMakeFiles/run.dir/src/ecs/system.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/ecs/system.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\ecs\system.cpp" -o CMakeFiles\run.dir\src\ecs\system.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\ecs\system.cpp -o CMakeFiles\run.dir\src\ecs\system.cpp.s
 
 CMakeFiles/run.dir/src/graphics/material.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/graphics/material.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/graphics/material.cpp.obj: ../src/graphics/material.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/run.dir/src/graphics/material.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\material.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\graphics\material.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/run.dir/src/graphics/material.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\material.cpp.obj -c C:\Projects\C++\bliep\src\graphics\material.cpp
 
 CMakeFiles/run.dir/src/graphics/material.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/graphics/material.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\graphics\material.cpp" > CMakeFiles\run.dir\src\graphics\material.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\graphics\material.cpp > CMakeFiles\run.dir\src\graphics\material.cpp.i
 
 CMakeFiles/run.dir/src/graphics/material.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/graphics/material.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\graphics\material.cpp" -o CMakeFiles\run.dir\src\graphics\material.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\graphics\material.cpp -o CMakeFiles\run.dir\src\graphics\material.cpp.s
 
 CMakeFiles/run.dir/src/graphics/mesh.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/graphics/mesh.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/graphics/mesh.cpp.obj: ../src/graphics/mesh.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/run.dir/src/graphics/mesh.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\mesh.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\graphics\mesh.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/run.dir/src/graphics/mesh.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\mesh.cpp.obj -c C:\Projects\C++\bliep\src\graphics\mesh.cpp
 
 CMakeFiles/run.dir/src/graphics/mesh.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/graphics/mesh.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\graphics\mesh.cpp" > CMakeFiles\run.dir\src\graphics\mesh.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\graphics\mesh.cpp > CMakeFiles\run.dir\src\graphics\mesh.cpp.i
 
 CMakeFiles/run.dir/src/graphics/mesh.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/graphics/mesh.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\graphics\mesh.cpp" -o CMakeFiles\run.dir\src\graphics\mesh.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\graphics\mesh.cpp -o CMakeFiles\run.dir\src\graphics\mesh.cpp.s
 
 CMakeFiles/run.dir/src/graphics/model.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/graphics/model.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/graphics/model.cpp.obj: ../src/graphics/model.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/run.dir/src/graphics/model.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\model.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\graphics\model.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/run.dir/src/graphics/model.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\model.cpp.obj -c C:\Projects\C++\bliep\src\graphics\model.cpp
 
 CMakeFiles/run.dir/src/graphics/model.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/graphics/model.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\graphics\model.cpp" > CMakeFiles\run.dir\src\graphics\model.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\graphics\model.cpp > CMakeFiles\run.dir\src\graphics\model.cpp.i
 
 CMakeFiles/run.dir/src/graphics/model.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/graphics/model.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\graphics\model.cpp" -o CMakeFiles\run.dir\src\graphics\model.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\graphics\model.cpp -o CMakeFiles\run.dir\src\graphics\model.cpp.s
 
 CMakeFiles/run.dir/src/graphics/render_system.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/graphics/render_system.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/graphics/render_system.cpp.obj: ../src/graphics/render_system.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/run.dir/src/graphics/render_system.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\render_system.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\graphics\render_system.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/run.dir/src/graphics/render_system.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\render_system.cpp.obj -c C:\Projects\C++\bliep\src\graphics\render_system.cpp
 
 CMakeFiles/run.dir/src/graphics/render_system.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/graphics/render_system.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\graphics\render_system.cpp" > CMakeFiles\run.dir\src\graphics\render_system.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\graphics\render_system.cpp > CMakeFiles\run.dir\src\graphics\render_system.cpp.i
 
 CMakeFiles/run.dir/src/graphics/render_system.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/graphics/render_system.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\graphics\render_system.cpp" -o CMakeFiles\run.dir\src\graphics\render_system.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\graphics\render_system.cpp -o CMakeFiles\run.dir\src\graphics\render_system.cpp.s
 
 CMakeFiles/run.dir/src/graphics/shader.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/graphics/shader.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/graphics/shader.cpp.obj: ../src/graphics/shader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/run.dir/src/graphics/shader.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\shader.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\graphics\shader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/run.dir/src/graphics/shader.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\shader.cpp.obj -c C:\Projects\C++\bliep\src\graphics\shader.cpp
 
 CMakeFiles/run.dir/src/graphics/shader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/graphics/shader.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\graphics\shader.cpp" > CMakeFiles\run.dir\src\graphics\shader.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\graphics\shader.cpp > CMakeFiles\run.dir\src\graphics\shader.cpp.i
 
 CMakeFiles/run.dir/src/graphics/shader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/graphics/shader.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\graphics\shader.cpp" -o CMakeFiles\run.dir\src\graphics\shader.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\graphics\shader.cpp -o CMakeFiles\run.dir\src\graphics\shader.cpp.s
 
 CMakeFiles/run.dir/src/graphics/texture.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/graphics/texture.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/graphics/texture.cpp.obj: ../src/graphics/texture.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/run.dir/src/graphics/texture.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\texture.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\graphics\texture.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/run.dir/src/graphics/texture.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\graphics\texture.cpp.obj -c C:\Projects\C++\bliep\src\graphics\texture.cpp
 
 CMakeFiles/run.dir/src/graphics/texture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/graphics/texture.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\graphics\texture.cpp" > CMakeFiles\run.dir\src\graphics\texture.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\graphics\texture.cpp > CMakeFiles\run.dir\src\graphics\texture.cpp.i
 
 CMakeFiles/run.dir/src/graphics/texture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/graphics/texture.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\graphics\texture.cpp" -o CMakeFiles\run.dir\src\graphics\texture.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\graphics\texture.cpp -o CMakeFiles\run.dir\src\graphics\texture.cpp.s
 
 CMakeFiles/run.dir/src/main.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/main.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/run.dir/src/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\main.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/run.dir/src/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\main.cpp.obj -c C:\Projects\C++\bliep\src\main.cpp
 
 CMakeFiles/run.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\main.cpp" > CMakeFiles\run.dir\src\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\main.cpp > CMakeFiles\run.dir\src\main.cpp.i
 
 CMakeFiles/run.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\main.cpp" -o CMakeFiles\run.dir\src\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\main.cpp -o CMakeFiles\run.dir\src\main.cpp.s
 
 CMakeFiles/run.dir/src/math/math.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/math/math.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/math/math.cpp.obj: ../src/math/math.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/run.dir/src/math/math.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\math\math.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\math\math.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/run.dir/src/math/math.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\math\math.cpp.obj -c C:\Projects\C++\bliep\src\math\math.cpp
 
 CMakeFiles/run.dir/src/math/math.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/math/math.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\math\math.cpp" > CMakeFiles\run.dir\src\math\math.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\math\math.cpp > CMakeFiles\run.dir\src\math\math.cpp.i
 
 CMakeFiles/run.dir/src/math/math.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/math/math.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\math\math.cpp" -o CMakeFiles\run.dir\src\math\math.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\math\math.cpp -o CMakeFiles\run.dir\src\math\math.cpp.s
 
 CMakeFiles/run.dir/src/program.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/program.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/program.cpp.obj: ../src/program.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/run.dir/src/program.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\program.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\program.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/run.dir/src/program.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\program.cpp.obj -c C:\Projects\C++\bliep\src\program.cpp
 
 CMakeFiles/run.dir/src/program.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/program.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\program.cpp" > CMakeFiles\run.dir\src\program.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\program.cpp > CMakeFiles\run.dir\src\program.cpp.i
 
 CMakeFiles/run.dir/src/program.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/program.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\program.cpp" -o CMakeFiles\run.dir\src\program.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\program.cpp -o CMakeFiles\run.dir\src\program.cpp.s
 
 CMakeFiles/run.dir/src/resource/asset_manager.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/resource/asset_manager.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/resource/asset_manager.cpp.obj: ../src/resource/asset_manager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/run.dir/src/resource/asset_manager.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\resource\asset_manager.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\resource\asset_manager.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/run.dir/src/resource/asset_manager.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\resource\asset_manager.cpp.obj -c C:\Projects\C++\bliep\src\resource\asset_manager.cpp
 
 CMakeFiles/run.dir/src/resource/asset_manager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/resource/asset_manager.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\resource\asset_manager.cpp" > CMakeFiles\run.dir\src\resource\asset_manager.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\resource\asset_manager.cpp > CMakeFiles\run.dir\src\resource\asset_manager.cpp.i
 
 CMakeFiles/run.dir/src/resource/asset_manager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/resource/asset_manager.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\resource\asset_manager.cpp" -o CMakeFiles\run.dir\src\resource\asset_manager.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\resource\asset_manager.cpp -o CMakeFiles\run.dir\src\resource\asset_manager.cpp.s
 
 CMakeFiles/run.dir/src/resource/model_loader.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/resource/model_loader.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/resource/model_loader.cpp.obj: ../src/resource/model_loader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/run.dir/src/resource/model_loader.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\resource\model_loader.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\resource\model_loader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/run.dir/src/resource/model_loader.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\resource\model_loader.cpp.obj -c C:\Projects\C++\bliep\src\resource\model_loader.cpp
 
 CMakeFiles/run.dir/src/resource/model_loader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/resource/model_loader.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\resource\model_loader.cpp" > CMakeFiles\run.dir\src\resource\model_loader.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\resource\model_loader.cpp > CMakeFiles\run.dir\src\resource\model_loader.cpp.i
 
 CMakeFiles/run.dir/src/resource/model_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/resource/model_loader.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\resource\model_loader.cpp" -o CMakeFiles\run.dir\src\resource\model_loader.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\resource\model_loader.cpp -o CMakeFiles\run.dir\src\resource\model_loader.cpp.s
 
 CMakeFiles/run.dir/src/resource/shader_loader.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/resource/shader_loader.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/resource/shader_loader.cpp.obj: ../src/resource/shader_loader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/run.dir/src/resource/shader_loader.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\resource\shader_loader.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\resource\shader_loader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/run.dir/src/resource/shader_loader.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\resource\shader_loader.cpp.obj -c C:\Projects\C++\bliep\src\resource\shader_loader.cpp
 
 CMakeFiles/run.dir/src/resource/shader_loader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/resource/shader_loader.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\resource\shader_loader.cpp" > CMakeFiles\run.dir\src\resource\shader_loader.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\resource\shader_loader.cpp > CMakeFiles\run.dir\src\resource\shader_loader.cpp.i
 
 CMakeFiles/run.dir/src/resource/shader_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/resource/shader_loader.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\resource\shader_loader.cpp" -o CMakeFiles\run.dir\src\resource\shader_loader.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\resource\shader_loader.cpp -o CMakeFiles\run.dir\src\resource\shader_loader.cpp.s
 
 CMakeFiles/run.dir/src/resource/texture_loader.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/src/resource/texture_loader.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/src/resource/texture_loader.cpp.obj: ../src/resource/texture_loader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/run.dir/src/resource/texture_loader.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\resource\texture_loader.cpp.obj -c "E:\Projects\C++\Bliep Engine\src\resource\texture_loader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/run.dir/src/resource/texture_loader.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\src\resource\texture_loader.cpp.obj -c C:\Projects\C++\bliep\src\resource\texture_loader.cpp
 
 CMakeFiles/run.dir/src/resource/texture_loader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/src/resource/texture_loader.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Projects\C++\Bliep Engine\src\resource\texture_loader.cpp" > CMakeFiles\run.dir\src\resource\texture_loader.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Projects\C++\bliep\src\resource\texture_loader.cpp > CMakeFiles\run.dir\src\resource\texture_loader.cpp.i
 
 CMakeFiles/run.dir/src/resource/texture_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/src/resource/texture_loader.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Projects\C++\Bliep Engine\src\resource\texture_loader.cpp" -o CMakeFiles\run.dir\src\resource\texture_loader.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Projects\C++\bliep\src\resource\texture_loader.cpp -o CMakeFiles\run.dir\src\resource\texture_loader.cpp.s
 
 # Object files for target run
 run_OBJECTS = \
@@ -422,7 +422,7 @@ run_EXTERNAL_OBJECTS =
 ../bin/run.exe: CMakeFiles/run.dir/linklibs.rsp
 ../bin/run.exe: CMakeFiles/run.dir/objects1.rsp
 ../bin/run.exe: CMakeFiles/run.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Projects\C++\Bliep Engine\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable ..\bin\run.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Projects\C++\bliep\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable ..\bin\run.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\run.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -435,6 +435,6 @@ CMakeFiles/run.dir/clean:
 .PHONY : CMakeFiles/run.dir/clean
 
 CMakeFiles/run.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Projects\C++\Bliep Engine" "E:\Projects\C++\Bliep Engine" "E:\Projects\C++\Bliep Engine\build" "E:\Projects\C++\Bliep Engine\build" "E:\Projects\C++\Bliep Engine\build\CMakeFiles\run.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Projects\C++\bliep C:\Projects\C++\bliep C:\Projects\C++\bliep\build C:\Projects\C++\bliep\build C:\Projects\C++\bliep\build\CMakeFiles\run.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run.dir/depend
 

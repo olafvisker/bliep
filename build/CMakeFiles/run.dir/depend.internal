@@ -138,16 +138,16 @@ CMakeFiles/run.dir/src/core/engine.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/engine.cpp
- E:/Projects/C++/Bliep Engine/src/core/engine.h
- E:/Projects/C++/Bliep Engine/src/core/input.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/core/timer.h
- E:/Projects/C++/Bliep Engine/src/core/window.h
- E:/Projects/C++/Bliep Engine/src/ecs/entity.h
- E:/Projects/C++/Bliep Engine/src/ecs/system.h
- E:/Projects/C++/Bliep Engine/src/types/color.h
- E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+ C:/Projects/C++/bliep/src/core/engine.cpp
+ C:/Projects/C++/bliep/src/core/engine.h
+ C:/Projects/C++/bliep/src/core/input.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/core/timer.h
+ C:/Projects/C++/bliep/src/core/window.h
+ C:/Projects/C++/bliep/src/ecs/entity.h
+ C:/Projects/C++/bliep/src/ecs/system.h
+ C:/Projects/C++/bliep/src/types/color.h
+ C:/Projects/C++/bliep/src/types/rectangle.h
 CMakeFiles/run.dir/src/core/input.cpp.obj
  ../libs/SDL2/include/SDL2/SDL.h
  ../libs/SDL2/include/SDL2/SDL_assert.h
@@ -273,11 +273,11 @@ CMakeFiles/run.dir/src/core/input.cpp.obj
  ../libs/glm/vec3.hpp
  ../libs/glm/vec4.hpp
  ../libs/glm/vector_relational.hpp
- E:/Projects/C++/Bliep Engine/src/core/input.cpp
- E:/Projects/C++/Bliep Engine/src/core/input.h
- E:/Projects/C++/Bliep Engine/src/core/window.h
- E:/Projects/C++/Bliep Engine/src/types/color.h
- E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+ C:/Projects/C++/bliep/src/core/input.cpp
+ C:/Projects/C++/bliep/src/core/input.h
+ C:/Projects/C++/bliep/src/core/window.h
+ C:/Projects/C++/bliep/src/types/color.h
+ C:/Projects/C++/bliep/src/types/rectangle.h
 CMakeFiles/run.dir/src/core/logger.cpp.obj
  ../libs/plog/Appenders/ConsoleAppender.h
  ../libs/plog/Appenders/IAppender.h
@@ -292,8 +292,8 @@ CMakeFiles/run.dir/src/core/logger.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/logger.cpp
- E:/Projects/C++/Bliep Engine/src/core/logger.h
+ C:/Projects/C++/bliep/src/core/logger.cpp
+ C:/Projects/C++/bliep/src/core/logger.h
 CMakeFiles/run.dir/src/core/timer.cpp.obj
  ../libs/SDL2/include/SDL2/SDL.h
  ../libs/SDL2/include/SDL2/SDL_assert.h
@@ -340,8 +340,8 @@ CMakeFiles/run.dir/src/core/timer.cpp.obj
  ../libs/SDL2/include/SDL2/SDL_video.h
  ../libs/SDL2/include/SDL2/begin_code.h
  ../libs/SDL2/include/SDL2/close_code.h
- E:/Projects/C++/Bliep Engine/src/core/timer.cpp
- E:/Projects/C++/Bliep Engine/src/core/timer.h
+ C:/Projects/C++/bliep/src/core/timer.cpp
+ C:/Projects/C++/bliep/src/core/timer.h
 CMakeFiles/run.dir/src/core/window.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/SDL2/include/SDL2/SDL.h
@@ -480,11 +480,11 @@ CMakeFiles/run.dir/src/core/window.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/core/window.cpp
- E:/Projects/C++/Bliep Engine/src/core/window.h
- E:/Projects/C++/Bliep Engine/src/types/color.h
- E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/core/window.cpp
+ C:/Projects/C++/bliep/src/core/window.h
+ C:/Projects/C++/bliep/src/types/color.h
+ C:/Projects/C++/bliep/src/types/rectangle.h
 CMakeFiles/run.dir/src/debug_systems.cpp.obj
  ../libs/GLM/common.hpp
  ../libs/GLM/detail/_fixes.hpp
@@ -623,24 +623,24 @@ CMakeFiles/run.dir/src/debug_systems.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/components/transform.h
- E:/Projects/C++/Bliep Engine/src/core/engine.h
- E:/Projects/C++/Bliep Engine/src/core/input.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/core/timer.h
- E:/Projects/C++/Bliep Engine/src/core/window.h
- E:/Projects/C++/Bliep Engine/src/debug_components.h
- E:/Projects/C++/Bliep Engine/src/debug_systems.cpp
- E:/Projects/C++/Bliep Engine/src/debug_systems.h
- E:/Projects/C++/Bliep Engine/src/ecs/component.h
- E:/Projects/C++/Bliep Engine/src/ecs/entity.h
- E:/Projects/C++/Bliep Engine/src/ecs/system.h
- E:/Projects/C++/Bliep Engine/src/math/math.h
- E:/Projects/C++/Bliep Engine/src/types/color.h
- E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+ C:/Projects/C++/bliep/src/components/transform.h
+ C:/Projects/C++/bliep/src/core/engine.h
+ C:/Projects/C++/bliep/src/core/input.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/core/timer.h
+ C:/Projects/C++/bliep/src/core/window.h
+ C:/Projects/C++/bliep/src/debug_components.h
+ C:/Projects/C++/bliep/src/debug_systems.cpp
+ C:/Projects/C++/bliep/src/debug_systems.h
+ C:/Projects/C++/bliep/src/ecs/component.h
+ C:/Projects/C++/bliep/src/ecs/entity.h
+ C:/Projects/C++/bliep/src/ecs/system.h
+ C:/Projects/C++/bliep/src/math/math.h
+ C:/Projects/C++/bliep/src/types/color.h
+ C:/Projects/C++/bliep/src/types/rectangle.h
 CMakeFiles/run.dir/src/ecs/component.cpp.obj
- E:/Projects/C++/Bliep Engine/src/ecs/component.cpp
- E:/Projects/C++/Bliep Engine/src/ecs/component.h
+ C:/Projects/C++/bliep/src/ecs/component.cpp
+ C:/Projects/C++/bliep/src/ecs/component.h
 CMakeFiles/run.dir/src/ecs/entity.cpp.obj
  ../libs/plog/Appenders/IAppender.h
  ../libs/plog/Appenders/RollingFileAppender.h
@@ -654,11 +654,11 @@ CMakeFiles/run.dir/src/ecs/entity.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/ecs/component.h
- E:/Projects/C++/Bliep Engine/src/ecs/entity.cpp
- E:/Projects/C++/Bliep Engine/src/ecs/entity.h
- E:/Projects/C++/Bliep Engine/src/ecs/system.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/ecs/component.h
+ C:/Projects/C++/bliep/src/ecs/entity.cpp
+ C:/Projects/C++/bliep/src/ecs/entity.h
+ C:/Projects/C++/bliep/src/ecs/system.h
 CMakeFiles/run.dir/src/ecs/system.cpp.obj
  ../libs/SDL2/include/SDL2/SDL.h
  ../libs/SDL2/include/SDL2/SDL_assert.h
@@ -796,17 +796,17 @@ CMakeFiles/run.dir/src/ecs/system.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/engine.h
- E:/Projects/C++/Bliep Engine/src/core/input.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/core/timer.h
- E:/Projects/C++/Bliep Engine/src/core/window.h
- E:/Projects/C++/Bliep Engine/src/ecs/component.h
- E:/Projects/C++/Bliep Engine/src/ecs/entity.h
- E:/Projects/C++/Bliep Engine/src/ecs/system.cpp
- E:/Projects/C++/Bliep Engine/src/ecs/system.h
- E:/Projects/C++/Bliep Engine/src/types/color.h
- E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+ C:/Projects/C++/bliep/src/core/engine.h
+ C:/Projects/C++/bliep/src/core/input.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/core/timer.h
+ C:/Projects/C++/bliep/src/core/window.h
+ C:/Projects/C++/bliep/src/ecs/component.h
+ C:/Projects/C++/bliep/src/ecs/entity.h
+ C:/Projects/C++/bliep/src/ecs/system.cpp
+ C:/Projects/C++/bliep/src/ecs/system.h
+ C:/Projects/C++/bliep/src/types/color.h
+ C:/Projects/C++/bliep/src/types/rectangle.h
 CMakeFiles/run.dir/src/graphics/material.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/glm/common.hpp
@@ -900,13 +900,13 @@ CMakeFiles/run.dir/src/graphics/material.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/graphics/material.cpp
- E:/Projects/C++/Bliep Engine/src/graphics/material.h
- E:/Projects/C++/Bliep Engine/src/graphics/shader.h
- E:/Projects/C++/Bliep Engine/src/graphics/texture.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
- E:/Projects/C++/Bliep Engine/src/types/color.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/graphics/material.cpp
+ C:/Projects/C++/bliep/src/graphics/material.h
+ C:/Projects/C++/bliep/src/graphics/shader.h
+ C:/Projects/C++/bliep/src/graphics/texture.h
+ C:/Projects/C++/bliep/src/resource/asset.h
+ C:/Projects/C++/bliep/src/types/color.h
 CMakeFiles/run.dir/src/graphics/mesh.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/GLM/common.hpp
@@ -1000,9 +1000,9 @@ CMakeFiles/run.dir/src/graphics/mesh.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/graphics/mesh.cpp
- E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/graphics/mesh.cpp
+ C:/Projects/C++/bliep/src/graphics/mesh.h
 CMakeFiles/run.dir/src/graphics/model.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/GLM/common.hpp
@@ -1084,10 +1084,10 @@ CMakeFiles/run.dir/src/graphics/model.cpp.obj
  ../libs/GLM/vec3.hpp
  ../libs/GLM/vec4.hpp
  ../libs/GLM/vector_relational.hpp
- E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
- E:/Projects/C++/Bliep Engine/src/graphics/model.cpp
- E:/Projects/C++/Bliep Engine/src/graphics/model.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
+ C:/Projects/C++/bliep/src/graphics/mesh.h
+ C:/Projects/C++/bliep/src/graphics/model.cpp
+ C:/Projects/C++/bliep/src/graphics/model.h
+ C:/Projects/C++/bliep/src/resource/asset.h
 CMakeFiles/run.dir/src/graphics/render_system.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/GLM/glm.hpp
@@ -1231,24 +1231,24 @@ CMakeFiles/run.dir/src/graphics/render_system.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/components/camera.h
- E:/Projects/C++/Bliep Engine/src/components/mesh_renderer.h
- E:/Projects/C++/Bliep Engine/src/components/transform.h
- E:/Projects/C++/Bliep Engine/src/core/engine.h
- E:/Projects/C++/Bliep Engine/src/core/input.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/core/timer.h
- E:/Projects/C++/Bliep Engine/src/core/window.h
- E:/Projects/C++/Bliep Engine/src/ecs/component.h
- E:/Projects/C++/Bliep Engine/src/ecs/entity.h
- E:/Projects/C++/Bliep Engine/src/ecs/system.h
- E:/Projects/C++/Bliep Engine/src/graphics/material.h
- E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
- E:/Projects/C++/Bliep Engine/src/graphics/render_system.cpp
- E:/Projects/C++/Bliep Engine/src/graphics/render_system.h
- E:/Projects/C++/Bliep Engine/src/math/math.h
- E:/Projects/C++/Bliep Engine/src/types/color.h
- E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+ C:/Projects/C++/bliep/src/components/camera.h
+ C:/Projects/C++/bliep/src/components/mesh_renderer.h
+ C:/Projects/C++/bliep/src/components/transform.h
+ C:/Projects/C++/bliep/src/core/engine.h
+ C:/Projects/C++/bliep/src/core/input.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/core/timer.h
+ C:/Projects/C++/bliep/src/core/window.h
+ C:/Projects/C++/bliep/src/ecs/component.h
+ C:/Projects/C++/bliep/src/ecs/entity.h
+ C:/Projects/C++/bliep/src/ecs/system.h
+ C:/Projects/C++/bliep/src/graphics/material.h
+ C:/Projects/C++/bliep/src/graphics/mesh.h
+ C:/Projects/C++/bliep/src/graphics/render_system.cpp
+ C:/Projects/C++/bliep/src/graphics/render_system.h
+ C:/Projects/C++/bliep/src/math/math.h
+ C:/Projects/C++/bliep/src/types/color.h
+ C:/Projects/C++/bliep/src/types/rectangle.h
 CMakeFiles/run.dir/src/graphics/shader.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/glm/common.hpp
@@ -1336,14 +1336,14 @@ CMakeFiles/run.dir/src/graphics/shader.cpp.obj
  ../libs/glm/vec3.hpp
  ../libs/glm/vec4.hpp
  ../libs/glm/vector_relational.hpp
- E:/Projects/C++/Bliep Engine/src/graphics/shader.cpp
- E:/Projects/C++/Bliep Engine/src/graphics/shader.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
+ C:/Projects/C++/bliep/src/graphics/shader.cpp
+ C:/Projects/C++/bliep/src/graphics/shader.h
+ C:/Projects/C++/bliep/src/resource/asset.h
 CMakeFiles/run.dir/src/graphics/texture.cpp.obj
  ../libs/GL/include/GL/glew.h
- E:/Projects/C++/Bliep Engine/src/graphics/texture.cpp
- E:/Projects/C++/Bliep Engine/src/graphics/texture.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
+ C:/Projects/C++/bliep/src/graphics/texture.cpp
+ C:/Projects/C++/bliep/src/graphics/texture.h
+ C:/Projects/C++/bliep/src/resource/asset.h
 CMakeFiles/run.dir/src/main.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/GLM/glm.hpp
@@ -1491,32 +1491,32 @@ CMakeFiles/run.dir/src/main.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/components/camera.h
- E:/Projects/C++/Bliep Engine/src/components/mesh_renderer.h
- E:/Projects/C++/Bliep Engine/src/components/transform.h
- E:/Projects/C++/Bliep Engine/src/core/engine.h
- E:/Projects/C++/Bliep Engine/src/core/input.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/core/timer.h
- E:/Projects/C++/Bliep Engine/src/core/window.h
- E:/Projects/C++/Bliep Engine/src/debug_components.h
- E:/Projects/C++/Bliep Engine/src/debug_systems.h
- E:/Projects/C++/Bliep Engine/src/ecs/component.h
- E:/Projects/C++/Bliep Engine/src/ecs/entity.h
- E:/Projects/C++/Bliep Engine/src/ecs/system.h
- E:/Projects/C++/Bliep Engine/src/graphics/material.h
- E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
- E:/Projects/C++/Bliep Engine/src/graphics/model.h
- E:/Projects/C++/Bliep Engine/src/graphics/render_system.h
- E:/Projects/C++/Bliep Engine/src/graphics/shader.h
- E:/Projects/C++/Bliep Engine/src/graphics/texture.h
- E:/Projects/C++/Bliep Engine/src/main.cpp
- E:/Projects/C++/Bliep Engine/src/main.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
- E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
- E:/Projects/C++/Bliep Engine/src/resource/asset_manager.h
- E:/Projects/C++/Bliep Engine/src/types/color.h
- E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+ C:/Projects/C++/bliep/src/components/camera.h
+ C:/Projects/C++/bliep/src/components/mesh_renderer.h
+ C:/Projects/C++/bliep/src/components/transform.h
+ C:/Projects/C++/bliep/src/core/engine.h
+ C:/Projects/C++/bliep/src/core/input.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/core/timer.h
+ C:/Projects/C++/bliep/src/core/window.h
+ C:/Projects/C++/bliep/src/debug_components.h
+ C:/Projects/C++/bliep/src/debug_systems.h
+ C:/Projects/C++/bliep/src/ecs/component.h
+ C:/Projects/C++/bliep/src/ecs/entity.h
+ C:/Projects/C++/bliep/src/ecs/system.h
+ C:/Projects/C++/bliep/src/graphics/material.h
+ C:/Projects/C++/bliep/src/graphics/mesh.h
+ C:/Projects/C++/bliep/src/graphics/model.h
+ C:/Projects/C++/bliep/src/graphics/render_system.h
+ C:/Projects/C++/bliep/src/graphics/shader.h
+ C:/Projects/C++/bliep/src/graphics/texture.h
+ C:/Projects/C++/bliep/src/main.cpp
+ C:/Projects/C++/bliep/src/main.h
+ C:/Projects/C++/bliep/src/resource/asset.h
+ C:/Projects/C++/bliep/src/resource/asset_loader.h
+ C:/Projects/C++/bliep/src/resource/asset_manager.h
+ C:/Projects/C++/bliep/src/types/color.h
+ C:/Projects/C++/bliep/src/types/rectangle.h
 CMakeFiles/run.dir/src/math/math.cpp.obj
  ../libs/glm/common.hpp
  ../libs/glm/detail/_fixes.hpp
@@ -1601,8 +1601,8 @@ CMakeFiles/run.dir/src/math/math.cpp.obj
  ../libs/glm/vec3.hpp
  ../libs/glm/vec4.hpp
  ../libs/glm/vector_relational.hpp
- E:/Projects/C++/Bliep Engine/src/math/math.cpp
- E:/Projects/C++/Bliep Engine/src/math/math.h
+ C:/Projects/C++/bliep/src/math/math.cpp
+ C:/Projects/C++/bliep/src/math/math.h
 CMakeFiles/run.dir/src/program.cpp.obj
  ../libs/SDL2/include/SDL2/SDL.h
  ../libs/SDL2/include/SDL2/SDL_assert.h
@@ -1740,17 +1740,17 @@ CMakeFiles/run.dir/src/program.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/engine.h
- E:/Projects/C++/Bliep Engine/src/core/input.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/core/timer.h
- E:/Projects/C++/Bliep Engine/src/core/window.h
- E:/Projects/C++/Bliep Engine/src/ecs/entity.h
- E:/Projects/C++/Bliep Engine/src/ecs/system.h
- E:/Projects/C++/Bliep Engine/src/main.h
- E:/Projects/C++/Bliep Engine/src/program.cpp
- E:/Projects/C++/Bliep Engine/src/types/color.h
- E:/Projects/C++/Bliep Engine/src/types/rectangle.h
+ C:/Projects/C++/bliep/src/core/engine.h
+ C:/Projects/C++/bliep/src/core/input.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/core/timer.h
+ C:/Projects/C++/bliep/src/core/window.h
+ C:/Projects/C++/bliep/src/ecs/entity.h
+ C:/Projects/C++/bliep/src/ecs/system.h
+ C:/Projects/C++/bliep/src/main.h
+ C:/Projects/C++/bliep/src/program.cpp
+ C:/Projects/C++/bliep/src/types/color.h
+ C:/Projects/C++/bliep/src/types/rectangle.h
 CMakeFiles/run.dir/src/resource/asset_manager.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/assimp/include/assimp/./Compiler/poppack1.h
@@ -1871,17 +1871,17 @@ CMakeFiles/run.dir/src/resource/asset_manager.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/graphics/model.h
- E:/Projects/C++/Bliep Engine/src/graphics/shader.h
- E:/Projects/C++/Bliep Engine/src/graphics/texture.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
- E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
- E:/Projects/C++/Bliep Engine/src/resource/asset_manager.cpp
- E:/Projects/C++/Bliep Engine/src/resource/asset_manager.h
- E:/Projects/C++/Bliep Engine/src/resource/model_loader.h
- E:/Projects/C++/Bliep Engine/src/resource/shader_loader.h
- E:/Projects/C++/Bliep Engine/src/resource/texture_loader.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/graphics/model.h
+ C:/Projects/C++/bliep/src/graphics/shader.h
+ C:/Projects/C++/bliep/src/graphics/texture.h
+ C:/Projects/C++/bliep/src/resource/asset.h
+ C:/Projects/C++/bliep/src/resource/asset_loader.h
+ C:/Projects/C++/bliep/src/resource/asset_manager.cpp
+ C:/Projects/C++/bliep/src/resource/asset_manager.h
+ C:/Projects/C++/bliep/src/resource/model_loader.h
+ C:/Projects/C++/bliep/src/resource/shader_loader.h
+ C:/Projects/C++/bliep/src/resource/texture_loader.h
 CMakeFiles/run.dir/src/resource/model_loader.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/GLM/common.hpp
@@ -2004,13 +2004,13 @@ CMakeFiles/run.dir/src/resource/model_loader.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/graphics/mesh.h
- E:/Projects/C++/Bliep Engine/src/graphics/model.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
- E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
- E:/Projects/C++/Bliep Engine/src/resource/model_loader.cpp
- E:/Projects/C++/Bliep Engine/src/resource/model_loader.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/graphics/mesh.h
+ C:/Projects/C++/bliep/src/graphics/model.h
+ C:/Projects/C++/bliep/src/resource/asset.h
+ C:/Projects/C++/bliep/src/resource/asset_loader.h
+ C:/Projects/C++/bliep/src/resource/model_loader.cpp
+ C:/Projects/C++/bliep/src/resource/model_loader.h
 CMakeFiles/run.dir/src/resource/shader_loader.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/glm/common.hpp
@@ -2104,12 +2104,12 @@ CMakeFiles/run.dir/src/resource/shader_loader.cpp.obj
  ../libs/plog/Severity.h
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/graphics/shader.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
- E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
- E:/Projects/C++/Bliep Engine/src/resource/shader_loader.cpp
- E:/Projects/C++/Bliep Engine/src/resource/shader_loader.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/graphics/shader.h
+ C:/Projects/C++/bliep/src/resource/asset.h
+ C:/Projects/C++/bliep/src/resource/asset_loader.h
+ C:/Projects/C++/bliep/src/resource/shader_loader.cpp
+ C:/Projects/C++/bliep/src/resource/shader_loader.h
 CMakeFiles/run.dir/src/resource/texture_loader.cpp.obj
  ../libs/GL/include/GL/glew.h
  ../libs/plog/Appenders/IAppender.h
@@ -2125,9 +2125,9 @@ CMakeFiles/run.dir/src/resource/texture_loader.cpp.obj
  ../libs/plog/Util.h
  ../libs/plog/WinApi.h
  ../libs/stb_image/stb_image.h
- E:/Projects/C++/Bliep Engine/src/core/logger.h
- E:/Projects/C++/Bliep Engine/src/graphics/texture.h
- E:/Projects/C++/Bliep Engine/src/resource/asset.h
- E:/Projects/C++/Bliep Engine/src/resource/asset_loader.h
- E:/Projects/C++/Bliep Engine/src/resource/texture_loader.cpp
- E:/Projects/C++/Bliep Engine/src/resource/texture_loader.h
+ C:/Projects/C++/bliep/src/core/logger.h
+ C:/Projects/C++/bliep/src/graphics/texture.h
+ C:/Projects/C++/bliep/src/resource/asset.h
+ C:/Projects/C++/bliep/src/resource/asset_loader.h
+ C:/Projects/C++/bliep/src/resource/texture_loader.cpp
+ C:/Projects/C++/bliep/src/resource/texture_loader.h
